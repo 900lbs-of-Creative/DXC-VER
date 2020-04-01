@@ -1,7 +1,7 @@
 {
 "companyName": "From the Future",
 "productName": "DXCSecurityUnity",
-"productVersion": "1.0.4",
+"productVersion": "1.0.7",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.2.17f1"
+"unityVersion": "2019.2.19f1"
 }
